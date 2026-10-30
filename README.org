@@ -1,0 +1,2 @@
+* About
+Conway's game of life written in Zig 0.17.0.
